@@ -6,10 +6,16 @@
         <item>
             <title>Android Release</title>
             <enclosure sparkle:version="1.1.0" sparkle:os="android"/>
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
         </item>
         <item>
             <title>iOS Release</title>
             <enclosure sparkle:version="1.0.25" sparkle:os="ios"/>
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
         </item>
     </channel>
 </rss>
