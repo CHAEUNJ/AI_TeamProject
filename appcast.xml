@@ -5,7 +5,7 @@
         <title>Releases</title>
         <item>
             <title>Android Release</title>
-            <enclosure url="https://play.google.com/store/apps/details?id=kr.co.dcom.dcom_app_v1" sparkle:version="1.1.0" sparkle:os="android"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=kr.co.dcom.dcom_app_v1" sparkle:version="1.2.1" sparkle:os="android"/>
             <!--
             <sparkle:version>1.1.0</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title>iOS Release</title>
-            <enclosure url="https://apps.apple.com/kr/app/dcom/id6477269570" sparkle:version="1.1.2" sparkle:os="ios"/>
+            <enclosure url="https://apps.apple.com/kr/app/dcom/id6477269570" sparkle:version="1.2.1" sparkle:os="ios"/>
             <!--
             <sparkle:version>1.1.2</sparkle:version>
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
