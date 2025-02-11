@@ -5,7 +5,7 @@
         <title>Releases</title>
         <item>
             <title>Android Release</title>
-            <enclosure url="" sparkle:version="" sparkle:os="android"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=kr.co.conic.conic_app" sparkle:version="0.0.15" sparkle:os="android"/>
             <!--
             <sparkle:version>1.1.0</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
